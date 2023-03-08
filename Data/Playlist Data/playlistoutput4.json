@@ -1,0 +1,1659 @@
+{
+  "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic/playlists?offset=150&limit=50",
+  "items" : [ {
+    "collaborative" : false,
+    "description" : "Brighten your day with the best indie-folk music in our spring compilation! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1Urx9I7zj9Ivt6iRMBnEtR"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1Urx9I7zj9Ivt6iRMBnEtR",
+    "id" : "1Urx9I7zj9Ivt6iRMBnEtR",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb4c0c896bd8ae27a6ee527252",
+      "width" : null
+    } ],
+    "name" : "Indie/Indie-Folk Compilation - Spring 2020 🌼 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjksZWQzNDk3MGUyZjI0YzY5YTZjZjJiNzNkMDUzYzhlODY0NDU1ZDFjNA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1Urx9I7zj9Ivt6iRMBnEtR/tracks",
+      "total" : 24
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1Urx9I7zj9Ivt6iRMBnEtR"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our March 2020 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6eT1wdalHeI5wGzoxWK4Oc"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6eT1wdalHeI5wGzoxWK4Oc",
+    "id" : "6eT1wdalHeI5wGzoxWK4Oc",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebba00cef87a06c033daa8d1364",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - March 2020 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzQsNmE0ZTBiNWEzODU0Njc5MGRiNGZlMGUwNmM4NzdhNzJmZmQ5MDMwYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6eT1wdalHeI5wGzoxWK4Oc/tracks",
+      "total" : 26
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6eT1wdalHeI5wGzoxWK4Oc"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie, pop and folk music in our March 2020 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2yxCNM9oGAgWa3KR4DuGor"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2yxCNM9oGAgWa3KR4DuGor",
+    "id" : "2yxCNM9oGAgWa3KR4DuGor",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb04573bfe65f0ba960f857e4c",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - March 2020 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjksOWNmMzRhMGJmMTRlYjhlYTdlNzljOGNjNjI4OTQ0NGVkZjIzZDc0ZQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2yxCNM9oGAgWa3KR4DuGor/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2yxCNM9oGAgWa3KR4DuGor"
+  }, {
+    "collaborative" : false,
+    "description" : "Make every day a Sunday with another hour of laidback indie music! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening! ",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5Ts24aXoCQL3Tts0kfN1NL"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5Ts24aXoCQL3Tts0kfN1NL",
+    "id" : "5Ts24aXoCQL3Tts0kfN1NL",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb925251e460f4a1d9914a26b4",
+      "width" : null
+    } ],
+    "name" : "Relaxing Sunday Mornings ☕ - An Indie/Folk/Pop Playlist | Vol. 4",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjgsOWNjOGNjYmQ2MGFiYmQwNjk2Y2IwYWNjMjMzMTNiMDFmNjMyNTBiYQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5Ts24aXoCQL3Tts0kfN1NL/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5Ts24aXoCQL3Tts0kfN1NL"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our February 2020 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4tfEGeY6Rk8Ylpdk6v4cys"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4tfEGeY6Rk8Ylpdk6v4cys",
+    "id" : "4tfEGeY6Rk8Ylpdk6v4cys",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbf38f79c973cbc184a2ce1163",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - February 2020 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjcsZjIzNTFjM2MwNTQ4ZjNmNjZiNzE5ZWJlMGJjZjhhZWU4NDVkMTQzNA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4tfEGeY6Rk8Ylpdk6v4cys/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4tfEGeY6Rk8Ylpdk6v4cys"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie, pop and folk music in our February 2020 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6oeBaDrQ6cuPXvoq9Negpi"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6oeBaDrQ6cuPXvoq9Negpi",
+    "id" : "6oeBaDrQ6cuPXvoq9Negpi",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb5181f924c5d73572908d2b94",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - February 2020 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzUsZjQ3Y2RmYWMxYjE0ODFkM2FkYjRiMzYyMmVjMDdhZTVjYTZlZTEzYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6oeBaDrQ6cuPXvoq9Negpi/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6oeBaDrQ6cuPXvoq9Negpi"
+  }, {
+    "collaborative" : false,
+    "description" : "Drift off to sleep with the most peaceful and chilled indie music! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening! ",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37uGzNUhiwatGcKFFlgT02"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37uGzNUhiwatGcKFFlgT02",
+    "id" : "37uGzNUhiwatGcKFFlgT02",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb88848eddf22bd66f78812f8b",
+      "width" : null
+    } ],
+    "name" : "Goodnight World 🌌 - An Indie/Folk/Chill Sleeping Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzMsMDc0Mjc1NzRlOWNmYzEyMTE2OTJmYjE0OWY1YmNjMzRlNzg0OWY0Yg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37uGzNUhiwatGcKFFlgT02/tracks",
+      "total" : 21
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37uGzNUhiwatGcKFFlgT02"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our January 2020 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3RjOzJcLlJs4mgGf00Uqvb"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3RjOzJcLlJs4mgGf00Uqvb",
+    "id" : "3RjOzJcLlJs4mgGf00Uqvb",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbf276c428a30bd67015daa64f",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - January 2020 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzEsY2QwMDI0MTk2YjFjYTc3MmExYzNhZTQyMzNlM2YyYzBkMWFjOTJlOA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3RjOzJcLlJs4mgGf00Uqvb/tracks",
+      "total" : 24
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3RjOzJcLlJs4mgGf00Uqvb"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie, pop and folk music in our January 2020 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4AfbRPZrJbVFUHRhzdF4dD"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4AfbRPZrJbVFUHRhzdF4dD",
+    "id" : "4AfbRPZrJbVFUHRhzdF4dD",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb425682ed333a66902b6f0599",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - January 2020 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzQsOTg1Yzg1YWY2YmEwNThmNWY3YjA4NDNhYmRkNTE1MDk4NTAzY2E2OA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4AfbRPZrJbVFUHRhzdF4dD/tracks",
+      "total" : 26
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4AfbRPZrJbVFUHRhzdF4dD"
+  }, {
+    "collaborative" : false,
+    "description" : "Disconnect from the world and feel your worries float away with the chillest indie music! Find more songs like this on the <a href=\"https://www.youtube.com/user/alexrainbird\"> alexrainbirdMusic YouTube channel</a>.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6YSm3oZ7eHqFiG2700SSlZ"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6YSm3oZ7eHqFiG2700SSlZ",
+    "id" : "6YSm3oZ7eHqFiG2700SSlZ",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb078352a2fb0bc0e72134583a",
+      "width" : null
+    } ],
+    "name" : "Relax/Chill Indie ☕ | alexrainbirdMusic (Acoustic, Folk, Pop)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTAxMCxlNTI1MDY3YTk0MTA5N2UxODEzODkwODY0NjEwMGJkMzA4YmJlMDhj",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6YSm3oZ7eHqFiG2700SSlZ/tracks",
+      "total" : 608
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6YSm3oZ7eHqFiG2700SSlZ"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the most beautiful songs that we&#x27;ve ever featured in this emotional &amp; inspirational indie selection! Perfect for chilling, sleeping and working. Find more stunning tracks on the alexrainbirdMusic YT channel!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6MJx6Apsd25rW7y2uQd8TF"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6MJx6Apsd25rW7y2uQd8TF",
+    "id" : "6MJx6Apsd25rW7y2uQd8TF",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb8f0186298a913fee79e637d4",
+      "width" : null
+    } ],
+    "name" : "beautiful indie songs 🗻 | alexrainbirdMusic (Folk, Pop, Chill, Acoustic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NjE4LDQzNzQ5Y2NmOTUxZTE1ZWVmN2RhYTdhMzUzMGY1MTViMTRhOWM2OTU=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6MJx6Apsd25rW7y2uQd8TF/tracks",
+      "total" : 342
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6MJx6Apsd25rW7y2uQd8TF"
+  }, {
+    "collaborative" : false,
+    "description" : "Heading on a cross-country road trip? Or just travelling to work? This playlist will make it the best journey ever. Turn up the volume and wind the windows down! All music featured from alexrainbirdMusic.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1uJyAo2C4eqROhaRmpaHFJ"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1uJyAo2C4eqROhaRmpaHFJ",
+    "id" : "1uJyAo2C4eqROhaRmpaHFJ",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb88e1334ab3d07ddd21ed9fb4",
+      "width" : null
+    } ],
+    "name" : "Indie Road Trip 🚐 | alexrainbirdMusic",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzY5LDY0MmI4OWFhYTM0NjNiZTcxYjU5MDdlZTJmZTQzODJjZDQ5MDlkMWM=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1uJyAo2C4eqROhaRmpaHFJ/tracks",
+      "total" : 348
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1uJyAo2C4eqROhaRmpaHFJ"
+  }, {
+    "collaborative" : false,
+    "description" : "A collection of dark &amp; spooky tracks that have featured on alexrainbirdMusic from 2018 and beyond!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2tLo4rEyQaeKQ3C7ixIRpl"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2tLo4rEyQaeKQ3C7ixIRpl",
+    "id" : "2tLo4rEyQaeKQ3C7ixIRpl",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbb2b8522b993df7fa450a5421",
+      "width" : null
+    } ],
+    "name" : "Dark Indie 👻 | alexrainbirdMusic",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjY2LDNhYzM3MTE3YzJmN2Q2OGFlOTQ1OWE0YzlmODJkMzM4MWRmN2Y0MTY=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2tLo4rEyQaeKQ3C7ixIRpl/tracks",
+      "total" : 246
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2tLo4rEyQaeKQ3C7ixIRpl"
+  }, {
+    "collaborative" : false,
+    "description" : "Even more folk, acoustic and indie songs for all your coffeehouse vibes! Find more chilled tracks on the alexrainbirdMusic YT channel!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7h67NeS0CR0gE7k07H2w3c"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7h67NeS0CR0gE7k07H2w3c",
+    "id" : "7h67NeS0CR0gE7k07H2w3c",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb28b5de3eb5783c7e527842b9",
+      "width" : null
+    } ],
+    "name" : "Indie Coffeeshop ☕ | alexrainbirdMusic",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NTA0LDI1YTUwNmU3OGFhZDg5NTUxOTUyMmU5MDM1NTI4NzIwYWNhNTUxNmY=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7h67NeS0CR0gE7k07H2w3c/tracks",
+      "total" : 494
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7h67NeS0CR0gE7k07H2w3c"
+  }, {
+    "collaborative" : false,
+    "description" : "Snuggle with a loved one and listen to these handpicked romantic indie songs. If your heart is in need of melting, this is your one-stop shop. All tracks featured on alexrainbirdMusic.",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/54iw57ZPCreTvtf2oZ8hbm"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/54iw57ZPCreTvtf2oZ8hbm",
+    "id" : "54iw57ZPCreTvtf2oZ8hbm",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb6b9f0f0f4b3aa90e37c5cde5",
+      "width" : null
+    } ],
+    "name" : "Indie Love ❤️ | alexrainbirdMusic",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzI5LGViNTVjMmM5ZTQ5MzYzMjQzNWNiZDkzNTQyNzBiNjY3NmI2MzY3MWU=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/54iw57ZPCreTvtf2oZ8hbm/tracks",
+      "total" : 314
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:54iw57ZPCreTvtf2oZ8hbm"
+  }, {
+    "collaborative" : false,
+    "description" : "A collection of carefree and happy indie tracks to make exams, studying and homework a breeze! Find even more songs on the <a href=\"https://www.youtube.com/user/alexrainbird\"> alexrainbirdMusic YouTube channel</a>!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2YvSP2De6yDIyYNsIkde80"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2YvSP2De6yDIyYNsIkde80",
+    "id" : "2YvSP2De6yDIyYNsIkde80",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb67215ea5e53a8d1488c35c4f",
+      "width" : null
+    } ],
+    "name" : "Indie Studying 📚 | alexrainbirdMusic (Pop, Folk, Acoustic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NjIxLGE2YTFmZDgxNTY5NjAyYTVkYTdlMTc1Yzc2ODYzMGVhNzAxMzg1M2I=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2YvSP2De6yDIyYNsIkde80/tracks",
+      "total" : 592
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2YvSP2De6yDIyYNsIkde80"
+  }, {
+    "collaborative" : false,
+    "description" : "Watch the flowers bloom with the best chill indie soundtrack for spring! You can discover many more songs like this on the alexrainbirdMusic YouTube channel. Happy listening!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0IktaIecOtqKhtyeEaxC7R"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0IktaIecOtqKhtyeEaxC7R",
+    "id" : "0IktaIecOtqKhtyeEaxC7R",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebba71d9fea3f20aca823309448",
+      "width" : null
+    } ],
+    "name" : "Spring Indie 🌼 | alexrainbirdMusic (Folk, Pop, Acoustic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NDA3LDViM2ZjMzkzNzAwMDliZjk5NzlhNGMwYzg0YjVjZmM0N2Y0MWJiN2U=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0IktaIecOtqKhtyeEaxC7R/tracks",
+      "total" : 308
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0IktaIecOtqKhtyeEaxC7R"
+  }, {
+    "collaborative" : false,
+    "description" : "Feel the summer vibes with this upbeat indie selection! You can find the more songs like this on the alexrainbirdMusic YouTube channel. Happy listening!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2CnIfUl64g1YYEvgVHVrZ4"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2CnIfUl64g1YYEvgVHVrZ4",
+    "id" : "2CnIfUl64g1YYEvgVHVrZ4",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb68328c062d32aa29f15ef8b9",
+      "width" : null
+    } ],
+    "name" : "Summer Indie ☀️ | alexrainbirdMusic",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NTI0LDc4MjRmNTk5YmFkZGI0NDZlZWM4ODZiOGM4ZTVmOWUyOTllZWZkZDk=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2CnIfUl64g1YYEvgVHVrZ4/tracks",
+      "total" : 492
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2CnIfUl64g1YYEvgVHVrZ4"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover a new soundtrack for your holiday season with the best festive indie music! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5xgEVLwuWTfOS4uRVvWN5X"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5xgEVLwuWTfOS4uRVvWN5X",
+    "id" : "5xgEVLwuWTfOS4uRVvWN5X",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb6dd7cb0208fc9511a6422cd1",
+      "width" : null
+    } ],
+    "name" : "Indie Christmas 2019 🎄 - A Festive Folk/Pop Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjYsNGYxYTRhZTU5YWFiYTlkY2UxNTdjMWE2ZjY5OGU2ZWFiZGY5MDg1Yg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5xgEVLwuWTfOS4uRVvWN5X/tracks",
+      "total" : 19
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5xgEVLwuWTfOS4uRVvWN5X"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our December 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3Imz1clQfmPkoR35NTamGF"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3Imz1clQfmPkoR35NTamGF",
+    "id" : "3Imz1clQfmPkoR35NTamGF",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebba745d273d75891e6b0f5b406",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - December 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjksNDU1NDA0NTZlN2M5OWFjZGI3ZDdiNDQ5YzUxNTA3YmI4M2I0NmY4Yw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3Imz1clQfmPkoR35NTamGF/tracks",
+      "total" : 22
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3Imz1clQfmPkoR35NTamGF"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie, pop and folk music in our December 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5c8SnrQKJpXZVgqfYB4xM5"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5c8SnrQKJpXZVgqfYB4xM5",
+    "id" : "5c8SnrQKJpXZVgqfYB4xM5",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbffe23b06ec0afaa59d4c6b0c",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - December 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzMsOWIzNDZiZTMxZDJhNGNjOTQyMTY3ZmViMTViN2E5N2MwMDUxOTA4MA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5c8SnrQKJpXZVgqfYB4xM5/tracks",
+      "total" : 26
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5c8SnrQKJpXZVgqfYB4xM5"
+  }, {
+    "collaborative" : false,
+    "description" : "Watch the snow fall with best indie-folk music in our winter 2019 compilation! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7tokn4PLNIlaoH1FGmarEN"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7tokn4PLNIlaoH1FGmarEN",
+    "id" : "7tokn4PLNIlaoH1FGmarEN",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb5a9992bdb03752e29fff8177",
+      "width" : null
+    } ],
+    "name" : "Indie/Indie-Folk Compilation - Winter 2019 ❄️ (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzAsN2VhODVjYTFmNTYzYWJhM2U4YjQyN2QyNzliZGJjYjhkZmVhMzMwMQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7tokn4PLNIlaoH1FGmarEN/tracks",
+      "total" : 20
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7tokn4PLNIlaoH1FGmarEN"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our November 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2hWUVRjAvvaX11TNDwApFd"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2hWUVRjAvvaX11TNDwApFd",
+    "id" : "2hWUVRjAvvaX11TNDwApFd",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbf9bc410fe031d81d8f32fe3d",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - November 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzQsMDllM2QyMWFkZWU4YjdkYjJhNDEwOTNlNzE1ZWRhZTYxZjAxN2Q3Yw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2hWUVRjAvvaX11TNDwApFd/tracks",
+      "total" : 26
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2hWUVRjAvvaX11TNDwApFd"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie music in our November 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1OJlYIzrcnDkJB4Oi5c22w"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1OJlYIzrcnDkJB4Oi5c22w",
+    "id" : "1OJlYIzrcnDkJB4Oi5c22w",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb73f9f13ac986dada7f86a42a",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - November 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NjUsOTk1ODAyMTEyNDU2YTcyNTUyMzA2ZTc2Y2ZmM2FjNzdiMjk3YWIzMA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1OJlYIzrcnDkJB4Oi5c22w/tracks",
+      "total" : 26
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1OJlYIzrcnDkJB4Oi5c22w"
+  }, {
+    "collaborative" : false,
+    "description" : "Make homework and studying fun with more stress-free indie songs! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening! ",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0S0lOyRml4znzJQw7Azzsg"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0S0lOyRml4znzJQw7Azzsg",
+    "id" : "0S0lOyRml4znzJQw7Azzsg",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb2e96474487b8195182571b73",
+      "width" : null
+    } ],
+    "name" : "Stress-Free Studying 📚 - An Indie/Folk/Pop Playlist | Vol. 2",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzAsOTQ0NjMyNjUyNGU5ZGIxN2IxMGU2ZDMyYWJhOTRhOTU3MmVlOGViNg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0S0lOyRml4znzJQw7Azzsg/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0S0lOyRml4znzJQw7Azzsg"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover some of the best tracks from the artists performing at our debut live show in London, on 20th November 2019! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening! ",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2GmBBtTtG8oTWw6HwKFEaV"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2GmBBtTtG8oTWw6HwKFEaV",
+    "id" : "2GmBBtTtG8oTWw6HwKFEaV",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbcadad9b6b027818d40fd1cd5",
+      "width" : null
+    } ],
+    "name" : "alexrainbirdMusic LIVE SHOW Playlist (Cinders, Canyon City, All Faces)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjgsYzA0Yjk1NDk4NDNiMTdhNWQyZTJkYWMyMzBjZjI5MzZhOWU0OTMwYQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2GmBBtTtG8oTWw6HwKFEaV/tracks",
+      "total" : 19
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2GmBBtTtG8oTWw6HwKFEaV"
+  }, {
+    "collaborative" : false,
+    "description" : "Celebrate 700k YouTube subscribers with some of our favourite songs from the past few months! You can discover even more indie music on the alexrainbirdMusic YT channel. Happy listening! ",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3oUo1zD80LAdJmEGcmk951"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3oUo1zD80LAdJmEGcmk951",
+    "id" : "3oUo1zD80LAdJmEGcmk951",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb032132d8e689ee4379e76271",
+      "width" : null
+    } ],
+    "name" : "Best of alexrainbirdMusic // Vol. 5 (700k Subscribers Playlist) 🎉",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzIsYTgzMzRlYmM1NTNkM2IwN2QxN2YzOTQ4MDg2YmVkNDRiNGFhOGQzZA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3oUo1zD80LAdJmEGcmk951/tracks",
+      "total" : 22
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3oUo1zD80LAdJmEGcmk951"
+  }, {
+    "collaborative" : false,
+    "description" : "Relax with a hot drink and listen to more beautiful acoustic songs! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening! ",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1WlXrFdrdNlHck9ESV6UJ3"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1WlXrFdrdNlHck9ESV6UJ3",
+    "id" : "1WlXrFdrdNlHck9ESV6UJ3",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb8012b782d1033d41a79ed449",
+      "width" : null
+    } ],
+    "name" : "Cozy Coffeehouse ☕ - An Indie/Folk/Acoustic Playlist | Vol. 2",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzQsMjcyYmYzMmM2ZDZjY2M3NWE0ZmM4NmRmOGQ4YjNjNmRhNmNhYjczZg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1WlXrFdrdNlHck9ESV6UJ3/tracks",
+      "total" : 27
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1WlXrFdrdNlHck9ESV6UJ3"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our October 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2z6enBn8jN1VZaLKrqIeaT"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2z6enBn8jN1VZaLKrqIeaT",
+    "id" : "2z6enBn8jN1VZaLKrqIeaT",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb4e4f028cfaf4bbf97591da48",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - October 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzAsYzk3MDk2Y2Q2ZGQ2MzZiZThkNzhkZjNkOTM1N2VhYmJmYjBmMjhiYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2z6enBn8jN1VZaLKrqIeaT/tracks",
+      "total" : 24
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2z6enBn8jN1VZaLKrqIeaT"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie music in our October 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3vEk5JuKLMo0cMck9n47Kh"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3vEk5JuKLMo0cMck9n47Kh",
+    "id" : "3vEk5JuKLMo0cMck9n47Kh",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbe2bcb75cf6c722f18d973038",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - October 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzEsMmE5YmUwYThhYzFiNGY4OGU3N2U3MjdlZjJjMWE4ZjAwOWM2ZWJmZQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3vEk5JuKLMo0cMck9n47Kh/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3vEk5JuKLMo0cMck9n47Kh"
+  }, {
+    "collaborative" : false,
+    "description" : "Watch the leaves fall with best folk music in our autumn&#x2F;fall  2019 compilation! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1YUGNq2I6CrSJHLrqeORrg"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1YUGNq2I6CrSJHLrqeORrg",
+    "id" : "1YUGNq2I6CrSJHLrqeORrg",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb55feb711d4689b6b3a21571b",
+      "width" : null
+    } ],
+    "name" : "Indie/Indie-Folk Compilation - Autumn/Fall 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzIsYjRlNWRhZTJhN2M2MzBjYWJiNzAwNTMxZTM1YjkxNTdlMTQ3YWE5OA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1YUGNq2I6CrSJHLrqeORrg/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1YUGNq2I6CrSJHLrqeORrg"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our September 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0jLAdMEFshTq0gAPblzVIh"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0jLAdMEFshTq0gAPblzVIh",
+    "id" : "0jLAdMEFshTq0gAPblzVIh",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbb8be6efa5cae6e3cfa44941c",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - September 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzUsZmI4YmMwNjI2ZDFiNDAzOTg1NGUwNDE3NmY4OGI0NGM0OTQzNWU4OA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0jLAdMEFshTq0gAPblzVIh/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0jLAdMEFshTq0gAPblzVIh"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie music in our September 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2VqLfzrd7RiC0Tanb8y0sV"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2VqLfzrd7RiC0Tanb8y0sV",
+    "id" : "2VqLfzrd7RiC0Tanb8y0sV",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb6dbaa72b775ca1e3b87cc416",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - September 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzIsNGI2MzBiZThjZWVjYzI2OWJjMzIyMzgzZGY3M2Q1NTBjMGU2OTM3MA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2VqLfzrd7RiC0Tanb8y0sV/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2VqLfzrd7RiC0Tanb8y0sV"
+  }, {
+    "collaborative" : false,
+    "description" : "All Faces are one of the artists playing our first LIVE SHOW in London (more info at www.alexrainbirdmusic.com), so we wanted to showcase our top 5 essential tracks. If you don&#x27;t know these songs already, here&#x27;s your chance! 🎉",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4MwWKsFvbpBWKaotp9CEk7"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4MwWKsFvbpBWKaotp9CEk7",
+    "id" : "4MwWKsFvbpBWKaotp9CEk7",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbf7eb19e15f2fe3cd6e9f28c9",
+      "width" : null
+    } ],
+    "name" : "All Faces - The Essentials Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTQsNzIzYzFjMTliYTFjNGYwMDE4NGMyMDE0ZDMwOWJkNTk1MzRlOThhYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4MwWKsFvbpBWKaotp9CEk7/tracks",
+      "total" : 6
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4MwWKsFvbpBWKaotp9CEk7"
+  }, {
+    "collaborative" : false,
+    "description" : "Travel to distant places with this new dreamy indie selection! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/64LXGxj4WB4i7Wmz8o9W00"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/64LXGxj4WB4i7Wmz8o9W00",
+    "id" : "64LXGxj4WB4i7Wmz8o9W00",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb9652bf259fc40c1b50f27169",
+      "width" : null
+    } ],
+    "name" : "Wanderlust 🌲 - An Indie/Folk/Pop Playlist | Vol. II",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzQsOTQxYzU5YmEzZDRlMmEzNGZiOWYxYTE3MDYyNGE0NzlkMDM0ODM4OQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/64LXGxj4WB4i7Wmz8o9W00/tracks",
+      "total" : 27
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:64LXGxj4WB4i7Wmz8o9W00"
+  }, {
+    "collaborative" : false,
+    "description" : "Take an instant vacation with our selection of indie travelling songs! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6RUPUtjJERfXZfTeNVKUmG"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6RUPUtjJERfXZfTeNVKUmG",
+    "id" : "6RUPUtjJERfXZfTeNVKUmG",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb41ccf32e1eebaed6e904ea55",
+      "width" : null
+    } ],
+    "name" : "Travel the World ✈️🌍 - An Indie/Pop/Folk Playlist ",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjksMjhlNGE2ZjViN2JkMTBjOWI5Y2E2NjkxMGZkNGJlNDFjMTQxOTAyZg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6RUPUtjJERfXZfTeNVKUmG/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6RUPUtjJERfXZfTeNVKUmG"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our August 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3cSODdSiLMhR5f9ZAtZ1U8"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3cSODdSiLMhR5f9ZAtZ1U8",
+    "id" : "3cSODdSiLMhR5f9ZAtZ1U8",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb037fd70e2e2cbc14049e3e85",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - August 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzIsZTIzNzk0MzVmMTVmMTQ4ZTRjZjNhYzkzODQ0NWFlYTgyNTVhMzZiOA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3cSODdSiLMhR5f9ZAtZ1U8/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3cSODdSiLMhR5f9ZAtZ1U8"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie music in our August 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2poSVvRmFmTfwFO3DC2ivx"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2poSVvRmFmTfwFO3DC2ivx",
+    "id" : "2poSVvRmFmTfwFO3DC2ivx",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbb861ec5b250d3ccf622e82ed",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - August 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzIsNDdmOWU5MmYzN2QxMzIzMjA0MWFiNTU0NDBmMTJmNTgzY2ZkYzNhOQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2poSVvRmFmTfwFO3DC2ivx/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2poSVvRmFmTfwFO3DC2ivx"
+  }, {
+    "collaborative" : false,
+    "description" : "Canyon City is one of the artists playing our first LIVE SHOW in London (tickets available at www.alexrainbirdmusic.com), so we wanted to showcase our top 10 essential tracks. If you don&#x27;t know these songs already, here&#x27;s your chance! 🎉",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6kKL8OVF4DnIE3rTajeSly"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6kKL8OVF4DnIE3rTajeSly",
+    "id" : "6kKL8OVF4DnIE3rTajeSly",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbd39c1472b3d01ec517c7e76e",
+      "width" : null
+    } ],
+    "name" : "Canyon City - The Essentials Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTgsMDQ5ODI4ZGViMmM5OGYzYTNmNTBhOGMyYmQ3YTNkM2QwOWViMzE5Yg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6kKL8OVF4DnIE3rTajeSly/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6kKL8OVF4DnIE3rTajeSly"
+  }, {
+    "collaborative" : false,
+    "description" : "Have the best summer ever with this sun-soaked selection of folk&#x2F;pop songs! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2d6PxXEIrV338dsf9ggcUr"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2d6PxXEIrV338dsf9ggcUr",
+    "id" : "2d6PxXEIrV338dsf9ggcUr",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb28f0cc9b1baefba3240671bc",
+      "width" : null
+    } ],
+    "name" : "HELLO SUNSHINE ☀️ - A Summer Indie/Folk/Pop Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjgsYzNhZDJhNTI1YzkwMmM3MGVkNTJkZjFmYmFmMTM4NWMzZjg3MTc5OA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2d6PxXEIrV338dsf9ggcUr/tracks",
+      "total" : 22
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2d6PxXEIrV338dsf9ggcUr"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our July 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3wMb4DqnfkWIv5PpzQGWeP"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3wMb4DqnfkWIv5PpzQGWeP",
+    "id" : "3wMb4DqnfkWIv5PpzQGWeP",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb6ffcbfb84a1648e03b7fa38d",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - July 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzMsODcyZGIwMGQ5Mzg3NGFjZDgyZTU4MjdmMjQ4ZmFiOTU2MDVmZjBjNA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3wMb4DqnfkWIv5PpzQGWeP/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3wMb4DqnfkWIv5PpzQGWeP"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie music in our July 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6sq53U1qM3igusCdKSPKox"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6sq53U1qM3igusCdKSPKox",
+    "id" : "6sq53U1qM3igusCdKSPKox",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbd943f4b95a4f9baea3609ebe",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - July 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzEsNzIxNzg4ZDdjN2FkZjM5NjEyYTMxZDgzMDAyYTcyZmFiM2QwNzZlYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6sq53U1qM3igusCdKSPKox/tracks",
+      "total" : 24
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6sq53U1qM3igusCdKSPKox"
+  }, {
+    "collaborative" : false,
+    "description" : "Cinders are one of the artists playing our first LIVE SHOW in London (tickets available at www.alexrainbirdmusic.com), so we wanted to showcase our top 10 essential tracks. If you don&#x27;t know these songs already, here&#x27;s your chance! 🎉",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/22LCvnAZ9pP27Ax21w0M46"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/22LCvnAZ9pP27Ax21w0M46",
+    "id" : "22LCvnAZ9pP27Ax21w0M46",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb2d9d30c2ffd010078ca4c0ef",
+      "width" : null
+    } ],
+    "name" : "Cinders - The Essentials Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTcsMjZkNWZiNzBhYTZlZDJkYTQwMDUwZmMwYzkxM2M5NzczMTc0ODQ5MA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/22LCvnAZ9pP27Ax21w0M46/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:22LCvnAZ9pP27Ax21w0M46"
+  }, {
+    "collaborative" : false,
+    "description" : "Run wild and free with our selection of the best indie adventure music! You can discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3s1BGzgZ91G8Tyupi5TzIo"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3s1BGzgZ91G8Tyupi5TzIo",
+    "id" : "3s1BGzgZ91G8Tyupi5TzIo",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbb6ed63c674577d89fafd1b8c",
+      "width" : null
+    } ],
+    "name" : "Wild And Free 🎒🏕️ - An Indie/Pop/Folk “Adventure” Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzIsOTc1NWY3NjIwODFkNGEyNjE1MmFjNmE4OGM4ODdlNTJmM2EzN2RhOQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3s1BGzgZ91G8Tyupi5TzIo/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3s1BGzgZ91G8Tyupi5TzIo"
+  }, {
+    "collaborative" : false,
+    "description" : "Soak up the sun with the best indie-folk music in our Summer 2019 compilation! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6DcmeHyJioxN8RZuRTkotC"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6DcmeHyJioxN8RZuRTkotC",
+    "id" : "6DcmeHyJioxN8RZuRTkotC",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb4083fa30d23cbd1fcfbbbd8a",
+      "width" : null
+    } ],
+    "name" : "Indie/Indie-Folk Compilation - Summer 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjgsYjU3MTM5OGY1NGJiNmY0NzdiMDFiMzhkOGNjMTUxNzdjNDc3OWZlZQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6DcmeHyJioxN8RZuRTkotC/tracks",
+      "total" : 21
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6DcmeHyJioxN8RZuRTkotC"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our June 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/307F72XHELygDxwSSXjACW"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/307F72XHELygDxwSSXjACW",
+    "id" : "307F72XHELygDxwSSXjACW",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebbaa3fbc26527a37b3a28bfb48",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - June 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NDEsM2FkMjliNDk5ZjQ3OTY3NDYyNmYzNjg5YWUwZGNjYzkyNGM4YzU2ZA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/307F72XHELygDxwSSXjACW/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:307F72XHELygDxwSSXjACW"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie music in our June 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7JCXxiB2tKHL0Xttnfk0jB"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7JCXxiB2tKHL0Xttnfk0jB",
+    "id" : "7JCXxiB2tKHL0Xttnfk0jB",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb1b24e606453e20948c6db3d3",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - June 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjksNzc5YjkyMTVjODNmYTc4OGU2NzU1ZmRlMGEwZjIzMWYwM2U2MGYzYQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7JCXxiB2tKHL0Xttnfk0jB/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7JCXxiB2tKHL0Xttnfk0jB"
+  }, {
+    "collaborative" : false,
+    "description" : "Have a chilled acoustic afternoon with the best indie&#x2F;folk music! Discover even more indie music on the alexrainbirdMusic YouTube channel. Happy listening!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4mQl0ZGb1jqWCzjTiUgADd"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4mQl0ZGb1jqWCzjTiUgADd",
+    "id" : "4mQl0ZGb1jqWCzjTiUgADd",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb16ca4313ec5982ecd76b819a",
+      "width" : null
+    } ],
+    "name" : "Acoustic Afternoons 😌🎧 - A Lazy Indie/Folk/Chill Playlist",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzEsNzQxOWY4MDFiMjU0MDQxMTdhNjVmOTBiYjhiMjEyMWJlNDIzYWM1Mw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4mQl0ZGb1jqWCzjTiUgADd/tracks",
+      "total" : 23
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4mQl0ZGb1jqWCzjTiUgADd"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover the best new indie, rock and alternative music in our May 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes too!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/34CuXHVexYmDZRdUKLzfE9"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/34CuXHVexYmDZRdUKLzfE9",
+    "id" : "34CuXHVexYmDZRdUKLzfE9",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb41ba067e6a3dc4e5b067f333",
+      "width" : null
+    } ],
+    "name" : "Indie/Rock/Alt Compilation - May 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MzMsMWMxYmY4ZjY3OGYwZDViMjEyYWI4NTlkN2FjODI4OWExNTQ2NjUxZQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/34CuXHVexYmDZRdUKLzfE9/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:34CuXHVexYmDZRdUKLzfE9"
+  }, {
+    "collaborative" : false,
+    "description" : "Discover amazing new indie music in our May 2019 playlist! You can also find this playlist on the alexrainbirdMusic YouTube channel and on iTunes!",
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6tMxWC2BWut1onCxW0JCb8"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6tMxWC2BWut1onCxW0JCb8",
+    "id" : "6tMxWC2BWut1onCxW0JCb8",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://i.scdn.co/image/ab67706c0000bebb9e1003d4f7a0280d4cecb929",
+      "width" : null
+    } ],
+    "name" : "Indie/Pop/Folk Compilation - May 2019 (alexrainbirdMusic)",
+    "owner" : {
+      "display_name" : "alexrainbirdMusic",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/alxrnbrdmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/alxrnbrdmusic",
+      "id" : "alxrnbrdmusic",
+      "type" : "user",
+      "uri" : "spotify:user:alxrnbrdmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjcsYTIxZTJmZTQwMzg3NzVlNmE0ZTQ2N2VlYWQ5MGMyZTZiN2Q1NzRkOA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6tMxWC2BWut1onCxW0JCb8/tracks",
+      "total" : 22
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6tMxWC2BWut1onCxW0JCb8"
+  } ],
+  "limit" : 50,
+  "next" : "https://api.spotify.com/v1/users/alxrnbrdmusic/playlists?offset=200&limit=50",
+  "offset" : 150,
+  "previous" : "https://api.spotify.com/v1/users/alxrnbrdmusic/playlists?offset=100&limit=50",
+  "total" : 300
+}
